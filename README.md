@@ -3,7 +3,7 @@
 <h2>Software Development Projects: </h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - []()
 - <b>Java</b>
   - [University Management System](https://github.com/marrrrrrrrrrr/university-management-system)
 - <b>Python</b>
