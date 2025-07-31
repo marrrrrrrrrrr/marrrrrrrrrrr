@@ -3,7 +3,7 @@
 <h2>Software Development Projects: </h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - []()
+  - [Algorithms](https://github.com/marrrrrrrrrrr/algorithm-projects)
 - <b>Java</b>
   - [University Management System](https://github.com/marrrrrrrrrrr/university-management-system)
 - <b>Python</b>
