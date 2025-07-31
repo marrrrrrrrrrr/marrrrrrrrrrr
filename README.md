@@ -8,3 +8,4 @@
   - [University Management System](https://github.com/marrrrrrrrrrr/university-management-system)
 - <b>Python</b>
   - [TIMELESS – E-commerce Web App (Django, Full-stack Demo)](https://github.com/marrrrrrrrrrr/django_project)
+  - [Mini Projects Collection](https://github.com/marrrrrrrrrrr/python_projects)
